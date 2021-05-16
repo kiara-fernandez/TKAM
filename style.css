@@ -68,9 +68,13 @@ p2{
 img{
    width:592px;
     height:325px;
-    margin-left:25;
-margin-right:25;
+    margin-left:auto;
+    margin-right:auto;
 text-align:center;
+}
+iframe {
+  margin-left:auto;
+  margin-right:auto;
 }
 li{
   margin-top:5px;
